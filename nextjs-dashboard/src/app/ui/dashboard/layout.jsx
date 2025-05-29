@@ -19,4 +19,4 @@ The layout is structured using Flexbox to create a responsive layout. It consist
 sections:
 The first section (div) contains the SideNav component, representing the sidebar navigation.
 The second section (div) contains the main content area, where the actual page content ({children}) will be rendered.
-The layout adjusts based on the screen size (md:flex-row for large screens and md:flex-col for small screens). */
+The layout adjusts based on the screen size (md:flex-row   for large screens and md:flex-col for small screens). */
